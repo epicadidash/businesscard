@@ -16,7 +16,7 @@ const options = {
 const data = {
   name: chalk.white('Adwait Dash /'),
   handle: chalk.cyan('epicadidash'),
-  work: chalk.white('Student, Coder'),
+  work: chalk.white('Student, Coder , Founder , Entrepreneur, ML and Data Scientist'),
   twitter: chalk.cyan('twitter.com/epicadidash'),
   github: chalk.cyan('github.com/epicadidash'),
   linkedin: chalk.cyan('linkedin.com/in/epicadidash'),
