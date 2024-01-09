@@ -1,7 +1,3 @@
-It's me, Adwait!
 
-# Usage
+# epicadidash
 
-```
-npx epicadidash
-```

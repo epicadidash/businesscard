@@ -1,0 +1,25 @@
+{
+  "name": "epicadidash",
+  "version": "4.0.0",
+  "description": "Adwait Dash(@epicadidash)'s business card",
+  "main": "index.js",
+  "packageManager": "yarn@4.0.2",
+  "bin": "./bin/card.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epicadidash/businesscard.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Adwait DAsh",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
